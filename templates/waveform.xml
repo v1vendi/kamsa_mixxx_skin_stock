@@ -66,21 +66,6 @@
         <SignalRGBMidColor><Variable name="WaveMid"/></SignalRGBMidColor>
         <SignalRGBLowColor><Variable name="WaveLow"/></SignalRGBLowColor>
         <BeatColor><Variable name="BeatColor"/></BeatColor>
-        <!-- rekordbox grid (patched Mixxx build): white bar lines, grey beat ticks and
-             red downbeat ticks on the top and bottom edges -->
-        <BeatGridStyle>rekordbox</BeatGridStyle>
-        <WaveformStyle>rekordbox</WaveformStyle>
-        <WaveformRelease>0.03</WaveformRelease>
-        <BarColor>#d8d8d8</BarColor>
-        <BeatMarkerColor>#8c8c8c</BeatMarkerColor>
-        <BarMarkerColor>#e03c3c</BarMarkerColor>
-        <BeatMarkerSize>4</BeatMarkerSize>
-        <!-- bar.beat readout beside the playhead (patched Mixxx build) -->
-        <BarsLabel>true</BarsLabel>
-        <BarsLabelColor>#3b82e6</BarsLabelColor>
-        <BarsLabelBackground>#b0000000</BarsLabelBackground>
-        <BarsLabelFont>Ioskeley Mono</BarsLabelFont>
-        <BarsLabelSize>11</BarsLabelSize>
         <AxesColor><Variable name="AxesColor"/></AxesColor>
         <PlayPosColor><Variable name="PlayPosColor"/></PlayPosColor>
         <EndOfTrackColor><Variable name="EndOfTrackColor"/></EndOfTrackColor>

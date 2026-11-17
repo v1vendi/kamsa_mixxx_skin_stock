@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- drawn over the cover art: the cover shows only inside the blue ring -->
+  <path fill="#1e1e1e" fill-rule="evenodd" d="M0 0H200V200H0Z M100 4a96 96 0 1 0 0.01 0Z"/>
+  <path fill="#000000" fill-rule="evenodd" d="M100 4a96 96 0 1 0 0.01 0Z M100 29a71 71 0 1 0 0.01 0Z"/>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="#f2f2f2" stroke-width="5"/>
+  <circle cx="100" cy="100" r="71" fill="none" stroke="#1c74e6" stroke-width="3"/>
+</svg>

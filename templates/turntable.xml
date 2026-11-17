@@ -2,13 +2,19 @@
 <Template>
   <Template src="skin:templates/turntable_block.xml">
     <SetVariable name="BlockSize">352f,262f</SetVariable>
-    <SetVariable name="PlatterOffsetX">24</SetVariable>
-    <SetVariable name="SpinnySize">312f,262f</SetVariable>
-    <SetVariable name="TimeCenterY">236</SetVariable>
-    <SetVariable name="CueButton">9,170,40,40</SetVariable>
-    <SetVariable name="PlayButton">9,216,40,40</SetVariable>
-    <SetVariable name="TempoBox">246,219,66,34</SetVariable>
-    <SetVariable name="SyncButtons">246,195,66,20</SetVariable>
+    <SetVariable name="TitlePos">8,4</SetVariable>
+    <SetVariable name="TitleSize">300f,20f</SetVariable>
+    <SetVariable name="InfoPos">8,24</SetVariable>
+    <SetVariable name="InfoSize">300f,16f</SetVariable>
+    <SetVariable name="PlatterPos">97,44</SetVariable>
+    <SetVariable name="PlatterSize">170f,170f</SetVariable>
+    <SetVariable name="CuePos">9,172</SetVariable>
+    <SetVariable name="PlayPos">9,218</SetVariable>
+    <SetVariable name="TimePos">56,221</SetVariable>
+    <SetVariable name="TimeSize">142f,34f</SetVariable>
+    <SetVariable name="SyncPos">202,221</SetVariable>
+    <SetVariable name="LeaderPos">202,239</SetVariable>
+    <SetVariable name="BpmPos">246,221</SetVariable>
     <SetVariable name="BadgePos">319,6</SetVariable>
     <SetVariable name="FaderPos">316,28</SetVariable>
     <SetVariable name="FaderSize">34f,228f</SetVariable>

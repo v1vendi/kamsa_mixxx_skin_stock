@@ -119,7 +119,6 @@
             <ObjectName>DeckRating</ObjectName>
             <TooltipId>starrating</TooltipId>
             <Group><Variable name="Group"/></Group>
-            <HollowStars>true</HollowStars>
             <SizePolicy>me,f</SizePolicy>
             <MinimumSize>75,28</MinimumSize>
             <MaximumSize>-1,28</MaximumSize>

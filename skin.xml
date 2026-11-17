@@ -8,7 +8,7 @@
 <!DOCTYPE skin>
 <skin>
   <manifest>
-    <title>kamsa</title>
+    <title>kamsa (stock)</title>
     <author>kamsa, after Rekordmixxx contributors</author>
     <version>1.0.0</version>
     <description>Fork of Rekordmixxx with big-vinyl player decks. From Rekordmixxx: rekordbox 7 PERFORMANCE-mode layout with global bar, effect panel, stacked waveforms, player panels with pads and jog, centre mixer, sampler deck and browser.</description>

@@ -14,9 +14,8 @@
     <Hotcue><Variable name="Num"/></Hotcue>
     <NumberStates>3</NumberStates>
     <DimBrightThreshold>127</DimBrightThreshold>
-    <ChipStyle>true</ChipStyle>
     <State><Number>0</Number><Text><Variable name="Letter"/></Text><Alignment>left</Alignment></State>
-    <State><Number>1</Number><Text></Text><Alignment>left</Alignment></State>
-    <State><Number>2</Number><Text></Text><Alignment>left</Alignment></State>
+    <State><Number>1</Number><Text><Variable name="Letter"/></Text><Alignment>left</Alignment></State>
+    <State><Number>2</Number><Text><Variable name="Letter"/></Text><Alignment>left</Alignment></State>
   </HotcueButton>
 </Template>
