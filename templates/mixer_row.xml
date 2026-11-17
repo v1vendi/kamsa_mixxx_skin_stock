@@ -1,0 +1,15 @@
+<!--
+  A pair of mixer channels, VU meters side by side in the middle.
+  Variables: Left, Right (channel numbers)
+-->
+<Template>
+  <WidgetGroup>
+    <ObjectName>MixerRow</ObjectName>
+    <Layout>horizontal</Layout>
+    <SizePolicy>f,me</SizePolicy>
+    <Children>
+      <Template src="skin:templates/mixer_strip_l.xml"><SetVariable name="ChanNum"><Variable name="Left"/></SetVariable></Template>
+      <Template src="skin:templates/mixer_strip_r.xml"><SetVariable name="ChanNum"><Variable name="Right"/></SetVariable></Template>
+    </Children>
+  </WidgetGroup>
+</Template>
