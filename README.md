@@ -4,6 +4,8 @@ A [Mixxx](https://mixxx.org) skin with a performance layout: big vinyl platters 
 
 This is the **stock** variant. It uses only widgets and options that upstream Mixxx already ships, so it runs on an unmodified build. It was tested on Mixxx `main` (2.7-alpha).
 
+The full skin, with the beat-jog platter, the readout on the platter and rekordbox-style waveforms, is at **[kamsa](https://github.com/v1vendi/kamsa_mixxx_skin)**. It needs a small Mixxx patch, which is included there along with build steps.
+
 ![Two-deck layout](skin_preview_stock_2deck.png)
 
 ![Four-deck layout](skin_preview_stock_4deck.png)
@@ -43,7 +45,7 @@ git clone https://github.com/v1vendi/kamsa_mixxx_skin_stock.git "<skins director
 
 Restart Mixxx. Then choose **kamsa (stock)** under Preferences → Interface → Skin.
 
-## Differences from the full kamsa skin
+## Differences from the [full kamsa skin](https://github.com/v1vendi/kamsa_mixxx_skin)
 
 The full skin needs custom C++ widget options that upstream Mixxx doesn't have. This variant leaves them out:
 
